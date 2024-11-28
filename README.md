@@ -1,1 +1,1 @@
-# Legal-Semantic-Search
+# Legal-Semantic-Searching
